@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JaipurIce</string>
+
+    <string-array name="login_type" >
+        <item>Without Kiosk Access</item>
+        <item>With Kiosk Access</item>
+
+    </string-array>
+
+</resources>
