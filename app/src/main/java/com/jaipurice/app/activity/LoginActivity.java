@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.jaipurice.app.jaipurice.R;
+import com.jaipurice.app.R;
 import com.jaipurice.app.utils.Constants;
 import com.jaipurice.app.utils.PermissionResultCallback;
 import com.jaipurice.app.utils.PermissionUtils;
@@ -21,7 +21,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * Created by Nishant on 8/10/2017.
+ * Created by aaaaaaaaa on 8/10/2017.
  */
 
 public class LoginActivity extends AppCompatActivity implements
